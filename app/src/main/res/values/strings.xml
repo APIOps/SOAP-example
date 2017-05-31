@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SOAP_example</string>
+    <string-array name="tempUnit">
+        <item>degreeCelsius</item>
+        <item>degreeFahrenheit</item>
+        <item>kelvin</item>
+    </string-array>
+</resources>
